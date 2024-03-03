@@ -1063,7 +1063,7 @@ body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
   line-height: 1.42857143;
-  color: #333333;
+  color: #ffffff;
   background-color: #ffffff;
 }
 input,
@@ -5307,7 +5307,7 @@ a.list-group-item-danger.active:focus {
 }
 .panel {
   margin-bottom: 20px;
-  background-color: #ffffff;
+  background-color: #221c1c;
   border: 1px solid transparent;
   border-radius: 4px;
   -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
@@ -6794,12 +6794,12 @@ label {
   border-width: 2px;
 }
 .panel-default > .panel-heading {
-  color: #676767;
-  background-color: #ffffff;
+  color: #00bb10;
+  background-color: #221c1c;
   font-weight: bold;
 }
 .panel-footer {
-  background-color: #f7f7f7;
+  background-color: #221c1c;
 }
 #video {
   width: 70%;
